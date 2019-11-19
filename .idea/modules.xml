@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Edu.iml" filepath="$PROJECT_DIR$/Edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dogIdea/dogIdea.iml" filepath="$PROJECT_DIR$/dogIdea/dogIdea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/less1/less1.iml" filepath="$PROJECT_DIR$/less1/less1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/less2_heroes/less2_heroes.iml" filepath="$PROJECT_DIR$/less2_heroes/less2_heroes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/less3/less3.iml" filepath="$PROJECT_DIR$/less3/less3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/less4/less4.iml" filepath="$PROJECT_DIR$/less4/less4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns/patterns.iml" filepath="$PROJECT_DIR$/patterns/patterns.iml" />
+    </modules>
+  </component>
+</project>

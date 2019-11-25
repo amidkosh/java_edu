@@ -1,6 +1,6 @@
 package task3;
 
-public abstract class Animal {
+public abstract class Animal{
     private int legsCount;
 
     public int getLegsCount() {

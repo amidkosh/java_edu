@@ -1,3 +1,5 @@
+package less1.src;
+
 import java.util.Arrays;
 
 import less2.Door;

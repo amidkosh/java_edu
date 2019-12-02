@@ -1,4 +1,4 @@
-package streamAPI;
+package preparation;
 
 @FunctionalInterface
 public interface FuncInt {

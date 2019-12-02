@@ -9,7 +9,7 @@ public class Main {
         givenListContainsDuplicates_whenRemovingDuplicatesWithJava8_thenCorrect();
     }
 
-    public static void
+    private static void
     givenListContainsDuplicates_whenRemovingDuplicatesWithJava8_thenCorrect() {
         List<Integer> listWithDuplicates = Arrays.asList(1, 1, 2, 2, 3, 3);
         List<Integer> listWithoutDuplicates = listWithDuplicates.stream()

@@ -9,7 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/less3/less3.iml" filepath="$PROJECT_DIR$/less3/less3.iml" />
       <module fileurl="file://$PROJECT_DIR$/less4/less4.iml" filepath="$PROJECT_DIR$/less4/less4.iml" />
       <module fileurl="file://$PROJECT_DIR$/less5/less5.iml" filepath="$PROJECT_DIR$/less5/less5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/less6/less6.iml" filepath="$PROJECT_DIR$/less6/less6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/less7/less7.iml" filepath="$PROJECT_DIR$/less7/less7.iml" />
       <module fileurl="file://$PROJECT_DIR$/patterns/patterns.iml" filepath="$PROJECT_DIR$/patterns/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/less7/streamAPI.iml" filepath="$PROJECT_DIR$/less7/streamAPI.iml" />
     </modules>
   </component>
 </project>
